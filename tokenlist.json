@@ -1,0 +1,24 @@
+[
+  {
+    "name": "WCORE",
+    "address": "0x40375c92d9faf44d2f9db9bd9ba41a3317a2404f",
+    "symbol": "WCORE",
+    "decimals": 18,
+    "chainId": 1116
+  },
+  {
+    "name": "Tether USD",
+    "address": "0x9Ebab27608bD64AFf36f027049aECC69102a0D1e",
+    "chainId": 1116,
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
+  },
+  {
+    "name": "VELO",
+    "address": "0x08B2f450C807ee3229f5935e3cF317347D1b7078",
+    "symbol": "VELO",
+    "decimals": 18,
+    "chainId": 1116
+  }
+]
