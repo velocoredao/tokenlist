@@ -20,5 +20,26 @@
     "symbol": "VELO",
     "decimals": 18,
     "chainId": 1116
+  },
+  {
+    "name": "LFG",
+    "address": "0xF7a0b80681eC935d6dd9f3Af9826E68B99897d6D",
+    "symbol": "VELO",
+    "decimals": 18,
+    "chainId": 1116
+  },
+  {
+    "name": "CoreShip",
+    "address": "0x751669F3dCE1ED1c449dE44889365E40F13ce57f",
+    "symbol": "CoreShip",
+    "decimals": 18,
+    "chainId": 1116
+  },
+  {
+    "name": "CID",
+    "address": "0x000000000E1D682Cc39ABe9B32285fdEa1255374",
+    "symbol": "CID",
+    "decimals": 18,
+    "chainId": 1116
   }
 ]
