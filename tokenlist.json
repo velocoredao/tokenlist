@@ -15,9 +15,9 @@
     "logoURI": "https://raw.githubusercontent.com/sushiswap/list/master/logos/token-logos/token/usdt.jpg"
   },
   {
-    "name": "VELO",
-    "address": "0x230F88115Fd642c071dCbA898eD10890EB74e1F8",
-    "symbol": "VELO",
+    "name": "VeloCore",
+    "address": "0x6f5D3520b07a44AB0Bd818aE4FA9dCaDea2c0a60",
+    "symbol": "VC",
     "decimals": 18,
     "chainId": 1116
   },
