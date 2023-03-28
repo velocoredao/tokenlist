@@ -7,6 +7,20 @@
     "chainId": 280
   },
   {
+    "name": "BTC",
+    "address": "0x45E61Fa1c9ef15eB50879187277623a38020f063",
+    "symbol": "BTC",
+    "decimals": 18,
+    "chainId": 280
+  },
+  {
+    "name": "USDC",
+    "address": "0x9598a431Adfb98486137B51b3254dB60E3Ee0B02",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 280
+  },
+  {
     "name": "VeloCore",
     "address": "0x1d352dD03986836d48ff10DC23B8D057f85A68B9",
     "symbol": "VC",
