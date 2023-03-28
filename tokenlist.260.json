@@ -8,14 +8,14 @@
   },
   {
     "name": "BTC",
-    "address": "0x45E61Fa1c9ef15eB50879187277623a38020f063",
+    "address": "0xbdE345771Eb0c6adEBc54F41A169ff6311fE096F",
     "symbol": "BTC",
     "decimals": 18,
     "chainId": 280
   },
   {
     "name": "USDC",
-    "address": "0x9598a431Adfb98486137B51b3254dB60E3Ee0B02",
+    "address": "0x8866CF704D13b1f2e2550A403A9451F92f383340",
     "symbol": "USDC",
     "decimals": 18,
     "chainId": 280
