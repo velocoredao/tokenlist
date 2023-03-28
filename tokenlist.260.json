@@ -1,0 +1,16 @@
+[
+  {
+    "name": "WETH",
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "symbol": "WETH",
+    "decimals": 18,
+    "chainId": 280
+  },
+  {
+    "name": "VeloCore",
+    "address": "0x1d352dD03986836d48ff10DC23B8D057f85A68B9",
+    "symbol": "VC",
+    "decimals": 18,
+    "chainId": 280
+  }
+]
