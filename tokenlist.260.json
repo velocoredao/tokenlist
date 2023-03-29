@@ -1,28 +1,28 @@
 [
     {
         "name": "VeloCore",
-        "address": "0x6CF1A6f967d20b17FB392741D5B7Cf39959Cd5Ff",
+        "address": "0x93a7e98cA855f7386BB4DF89E9015A72d54ea455",
         "symbol": "VC",
         "decimals": 18,
         "chainId": 280
     },
     {
         "name": "WETH",
-        "address": "0x2216c77E2c2bEa6ce5F3CEAa6e8aCf5Af376c5fA",
+        "address": "0x32fa3b68EF92CF4120718EEEB6602e1947e518D5",
         "symbol": "WETH",
         "decimals": 18,
         "chainId": 280
     },
     {
         "name": "USDC",
-        "address": "0x73f1597A61b62a4569e0cE747A51179904AA239B",
+        "address": "0x7CED39828d6B5E76044862e19A87AB1aD29fCcc1",
         "symbol": "USDC",
         "decimals": 18,
         "chainId": 280
     },
     {
         "name": "BTC",
-        "address": "0x0Db7f27D0009B0Ec01F4dD41031483Db783b6A32",
+        "address": "0xB831C2B3E5bd695F915016ad9F24bDCAce989D64",
         "symbol": "BTC",
         "decimals": 18,
         "chainId": 280
