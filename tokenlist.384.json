@@ -1,30 +1,26 @@
 [
-  {
-    "name": "WETH",
-    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
-    "symbol": "WETH",
-    "decimals": 18,
-    "chainId": 280
-  },
-  {
-    "name": "BTC",
-    "address": "0x45E61Fa1c9ef15eB50879187277623a38020f063",
-    "symbol": "BTC",
-    "decimals": 18,
-    "chainId": 280
-  },
-  {
-    "name": "USDC",
-    "address": "0x9598a431Adfb98486137B51b3254dB60E3Ee0B02",
-    "symbol": "USDC",
-    "decimals": 18,
-    "chainId": 280
-  },
-  {
-    "name": "VeloCore",
-    "address": "0xDCe1eFe6f7126e1D78Af39E6148c0daD926fb185",
-    "symbol": "VC",
-    "decimals": 18,
-    "chainId": 280
-  }
+    {
+        "name": "VeloCore",
+        "address": "0x129c6e2D8619B3F20504dBB7188602300f4C7e16",
+        "symbol": "VC",
+        "decimals": 18,
+        "logoURI": "/tokens/vc.png",
+        "chainId": 324
+    },
+    {
+        "name": "WETH",
+        "address": "0x99cd063A128A35b44b9Fb4ce4b479f8247baF746",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "/tokens/eth.png",
+        "chainId": 324
+    },
+    {
+        "name": "USDC",
+        "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+        "symbol": "USDC",
+        "decimals": 18,
+        "logoURI": "/tokens/usdc.png",
+        "chainId": 324
+    }
 ]
